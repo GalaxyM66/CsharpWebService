@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\PriceManageWebService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>08/16/2018 09:05:18</publishTime>
+    </File>
+    <File Include="bin/Oracle.DataAccess.dll">
+      <publishTime>08/16/2018 09:05:17</publishTime>
+    </File>
+    <File Include="bin/OrderToolWebservers.dll">
+      <publishTime>02/22/2019 15:32:02</publishTime>
+    </File>
+    <File Include="bin/OrderToolWebservers.pdb">
+      <publishTime>02/22/2019 15:32:02</publishTime>
+    </File>
+    <File Include="bin/WeifenLuo.WinFormsUI.Docking.dll">
+      <publishTime>08/16/2018 09:05:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/19/2019 14:17:11</publishTime>
+    </File>
+    <File Include="WebService.asmx">
+      <publishTime>02/12/2019 17:18:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

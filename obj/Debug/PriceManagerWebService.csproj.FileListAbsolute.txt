@@ -1,0 +1,11 @@
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\obj\Debug\PriceManagerWebService.csprojAssemblyReference.cache
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\obj\Debug\PriceManagerWebService.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\obj\Debug\OrderToolWebservers.dll
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\obj\Debug\OrderToolWebservers.pdb
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\bin\OrderToolWebservers.dll.config
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\bin\OrderToolWebservers.dll
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\bin\OrderToolWebservers.pdb
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\bin\MySql.Data.dll
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\bin\Oracle.DataAccess.dll
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\bin\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\SPGZ\source\repos\OrderToolWebservers\OrderToolWebservers\obj\Debug\PriceManagerWebService.csproj.CopyComplete
